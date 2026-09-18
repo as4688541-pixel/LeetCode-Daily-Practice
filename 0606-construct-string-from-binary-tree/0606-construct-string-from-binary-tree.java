@@ -14,8 +14,7 @@
  * }
  */
 class Solution {
-    private StringBuilder sb;
-    public void dfs(TreeNode root){
+    public void dfs(TreeNode root, StringBuilder sb){
          if(root == null)return;
 
          sb.append(root.val);
@@ -23,12 +22,12 @@ class Solution {
          // if left child exist
          if(root.left == null && root.right != null){
             sb.append('(');
-            dfs(root.left);
+            dfs(root.left,sb);
             sb.append(')');
          }
          if(root.left != null){
             sb.append('(');
-            dfs(root.left);
+            dfs(root.left,sb);
             sb.append(')');
          }
 
@@ -36,7 +35,7 @@ class Solution {
 
          if(root.right != null){
             sb.append('(');
-            dfs(root.right);
+            dfs(root.right,sb);
             sb.append(')');
 
          }
@@ -44,8 +43,8 @@ class Solution {
     }
     public String tree2str(TreeNode root) {
         
-        sb = new StringBuilder();
-        dfs(root);
+       StringBuilder sb = new StringBuilder();
+        dfs(root,sb);
         return sb.toString();
     }
 }
