@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
