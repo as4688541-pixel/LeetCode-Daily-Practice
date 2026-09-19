@@ -47,16 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0623-add-one-row-to-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1791-find-center-of-star-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
