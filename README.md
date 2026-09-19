@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
+| [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -91,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
