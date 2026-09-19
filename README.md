@@ -64,4 +64,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
