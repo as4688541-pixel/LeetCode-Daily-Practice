@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
