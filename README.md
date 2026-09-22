@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1672-richest-customer-wealth) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
