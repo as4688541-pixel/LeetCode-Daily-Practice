@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0623-add-one-row-to-tree) |
+| [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
 | [0623-add-one-row-to-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0623-add-one-row-to-tree) |
+| [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
@@ -158,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
