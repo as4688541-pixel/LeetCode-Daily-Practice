@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1672-richest-customer-wealth](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1672-richest-customer-wealth) |
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
+| [1514-path-with-maximum-probability](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -165,12 +167,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
