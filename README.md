@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Union-Find
 |  |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1514-path-with-maximum-probability) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
