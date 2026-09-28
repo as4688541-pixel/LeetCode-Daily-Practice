@@ -2,8 +2,9 @@ class Solution {
     public String makeGood(String s) {
         if(s.length() == 1 || s.length() == 0)return s;
         StringBuilder sb = new StringBuilder();
-       
-        for(int i=0; i<s.length(); i++){
+        int i=0;
+        while(i < s.length()){
+            
 
             if(sb.length() > 0){
 
@@ -13,6 +14,7 @@ class Solution {
                
                if(Math.abs(curr - prev) == 32){
                     sb.deleteCharAt(sb.length()-1);
+                    i++;
                    continue; 
                 }
             }
@@ -20,6 +22,7 @@ class Solution {
         
             sb.append(s.charAt(i));
                 
+            i++;
             
 
         }
