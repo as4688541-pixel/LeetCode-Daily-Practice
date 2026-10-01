@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+| [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 | [3524-find-x-value-of-array-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Brainteaser
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
