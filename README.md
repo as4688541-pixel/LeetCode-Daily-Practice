@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0931-minimum-falling-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
