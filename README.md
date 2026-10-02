@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0931-minimum-falling-path-sum) |
+| [1025-divisor-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1025-divisor-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
+| [1025-divisor-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1025-divisor-game) |
 | [3524-find-x-value-of-array-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1025-divisor-game) |
 ## Graph Theory
 |  |
 | ------- |
