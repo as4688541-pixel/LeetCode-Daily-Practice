@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
