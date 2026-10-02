@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -265,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
