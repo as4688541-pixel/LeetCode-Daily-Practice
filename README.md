@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
