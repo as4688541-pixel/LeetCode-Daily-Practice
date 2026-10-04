@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
