@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
