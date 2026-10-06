@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -326,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
