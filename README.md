@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
 | [0416-partition-equal-subset-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
