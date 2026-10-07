@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0055-jump-game) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0032-longest-valid-parentheses) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0647-palindromic-substrings) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0139-word-break) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
