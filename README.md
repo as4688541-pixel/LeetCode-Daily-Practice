@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0606-construct-string-from-binary-tree) |
+| [0647-palindromic-substrings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
+| [0647-palindromic-substrings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
 | ------- |
