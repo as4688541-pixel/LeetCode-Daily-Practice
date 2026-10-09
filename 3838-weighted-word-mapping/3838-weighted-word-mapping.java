@@ -1,7 +1,7 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
        
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         for(String word : words){
             int count = 0;
             for(char ch : word.toCharArray()){
@@ -12,10 +12,10 @@ class Solution {
             count = count % 26;
             int last = 26 - count;
             char curr = (char)(last + 96);
-            ans += curr;
+            ans.append(curr);
 
         }
-        return ans;
+        return ans.toString();
         
     }
 }
