@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
 ## Trie
 |  |
 | ------- |
