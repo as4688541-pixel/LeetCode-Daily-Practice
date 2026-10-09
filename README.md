@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Interactive
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0647-palindromic-substrings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Memoization
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
 | ------- |
