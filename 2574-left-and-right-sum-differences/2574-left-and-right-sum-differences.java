@@ -7,11 +7,13 @@ class Solution {
         for(int ele : nums){
             suffix += ele;
         }
+        int temp = 0;
         for(int i=0; i<nums.length; i++){
             leftsum += nums[i];
-            int temp = nums[i];
+            temp = nums[i];
             nums[i] = Math.abs(leftsum - suffix);
             suffix -= temp;
+            temp = 0;
         }
         return nums;
         
