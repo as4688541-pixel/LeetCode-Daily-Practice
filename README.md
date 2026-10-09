@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1672-richest-customer-wealth](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
 ## Trie
 |  |
