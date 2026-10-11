@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree
