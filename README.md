@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Brainteaser
 |  |
@@ -421,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
