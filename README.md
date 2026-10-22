@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Interactive
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
