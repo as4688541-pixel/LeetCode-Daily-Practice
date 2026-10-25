@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2409-count-days-spent-together) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/0556-next-greater-element-iii) |
 | [1025-divisor-game](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [2409-count-days-spent-together](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/as4688541-pixel/LeetCode-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
